@@ -12,6 +12,7 @@ import MovieDetail from "../Detailpage/MovieDetail";
 import Favorites from "../Detailpage/Favorite";
 import Contact from "../Page/contact";
 
+
 function Body() {
   return (
     <LanguageProvider> 
